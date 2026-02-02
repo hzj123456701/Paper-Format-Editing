@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40fded67-f095-4852-a3dd-d443ab97628f" name="更改" comment="第一版">
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/HeadingSettings.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/NormalTextSettings.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.9.8-bin/apache-maven-3.9.8" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.8-bin\apache-maven-3.9.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="21" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2uZMlQ4btgFlzdJpzvKPtWDp2Jx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/huang/Desktop/doc_format",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.backend.formatConfig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="40fded67-f095-4852-a3dd-d443ab97628f" name="更改" comment="" />
+      <created>1721448035546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721448035546</updated>
+      <workItem from="1742451800860" duration="867000" />
+      <workItem from="1742479275957" duration="5243000" />
+      <workItem from="1742520266307" duration="12035000" />
+      <workItem from="1742560655430" duration="7277000" />
+      <workItem from="1742611028416" duration="10788000" />
+      <workItem from="1742658600080" duration="15000" />
+      <workItem from="1742658758131" duration="45000" />
+      <workItem from="1742701423046" duration="17086000" />
+      <workItem from="1742739861310" duration="4437000" />
+      <workItem from="1742879540565" duration="656000" />
+      <workItem from="1743054519657" duration="6303000" />
+      <workItem from="1743084644986" duration="4536000" />
+      <workItem from="1743312610151" duration="5890000" />
+      <workItem from="1743319633042" duration="210000" />
+      <workItem from="1743329052313" duration="4569000" />
+      <workItem from="1743333833818" duration="188000" />
+      <workItem from="1743342778395" duration="178000" />
+      <workItem from="1743343425525" duration="1556000" />
+      <workItem from="1743423988762" duration="7154000" />
+      <workItem from="1743434605906" duration="44000" />
+      <workItem from="1743434660220" duration="22000" />
+      <workItem from="1743475490321" duration="18152000" />
+      <workItem from="1743517454469" duration="1812000" />
+      <workItem from="1743773504193" duration="7097000" />
+      <workItem from="1743819174428" duration="16275000" />
+      <workItem from="1743853332998" duration="6374000" />
+      <workItem from="1743865351793" duration="4736000" />
+      <workItem from="1743906987855" duration="14146000" />
+      <workItem from="1743932900476" duration="6263000" />
+      <workItem from="1743952007388" duration="119000" />
+      <workItem from="1743955248990" duration="531000" />
+      <workItem from="1743999259539" duration="1210000" />
+      <workItem from="1744091035257" duration="40000" />
+      <workItem from="1745592479238" duration="4861000" />
+      <workItem from="1745598762663" duration="24000" />
+      <workItem from="1745669614914" duration="7641000" />
+      <workItem from="1745845624078" duration="6000" />
+      <workItem from="1745911107617" duration="4982000" />
+      <workItem from="1745916500287" duration="313000" />
+      <workItem from="1745917035659" duration="231000" />
+      <workItem from="1749222166174" duration="4000" />
+      <workItem from="1749300815156" duration="7000" />
+      <workItem from="1749310279603" duration="58000" />
+      <workItem from="1770031783114" duration="1550000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一版">
+      <option name="closed" value="true" />
+      <created>1770031974924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770031974924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一版" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一版" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.apache.xmlbeans.impl.store.ElementXobj" memberName="_bits" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

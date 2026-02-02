@@ -1,0 +1,17 @@
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\BackendApplication.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\controller\formatController.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\CustomStyles.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\DocumentFormatConfig.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\Heading.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\HeadingRule.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\HeadingStyle.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\ImageConfig.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\NormalConfig.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\Paragraph.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\ParagraphConfig.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\SpecialConfig.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\TableConfig.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\formatConfig\TitleExample.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\numbering\ParagraphNumberingInfo.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\service\DocumentFormatService.java
+C:\Users\huang\Desktop\doc_format\backend\src\main\java\com\example\backend\service\TestService.java
