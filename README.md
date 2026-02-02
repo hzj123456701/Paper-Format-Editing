@@ -57,7 +57,7 @@ doc_format/
 ### 环境要求
 
 - Node.js 16+
-- Java 8+
+- Java 21
 - Maven 3.6+
 
 ### 安装和运行
